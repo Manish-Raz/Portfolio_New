@@ -83,6 +83,96 @@ export default function Home() {
       </section>
 
       <div id="content">
+        
+        <section
+          id="social-presence"
+          className="social-presence section-shell"
+          aria-labelledby="social-title"
+          data-reveal
+        >
+          <div className="social-presence__heading">
+            <p className="section-index">( 00 — FIND ME ONLINE )</p>
+            <h2 id="social-title">
+              A little more<br />
+              <em>of my world.</em>
+            </h2>
+            <p>Connect, follow along, and see what I share beyond this website.</p>
+          </div>
+
+          <div className="social-presence__grid">
+            <article className="social-card social-card--linkedin">
+              <div className="social-card__top">
+                <div className="social-card__icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2ZM8.34 18H5.67V9.42h2.67ZM7 8.25a1.55 1.55 0 1 1 0-3.1 1.55 1.55 0 0 1 0 3.1ZM18.34 18h-2.67v-4.17c0-1-.02-2.29-1.4-2.29s-1.61 1.09-1.61 2.22V18H10V9.42h2.56v1.17h.04a2.8 2.8 0 0 1 2.52-1.39c2.7 0 3.22 1.78 3.22 4.09Z" />
+                  </svg>
+                </div>
+                <span className="social-card__label">PROFESSIONAL NETWORK</span>
+              </div>
+              <h3>LinkedIn</h3>
+              <p className="social-card__count">280<span>+</span></p>
+              <p className="social-card__description">Connections</p>
+              <a
+                className="social-card__button"
+                href="https://www.linkedin.com/in/manish-rajak/"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="View Manish Rajak's LinkedIn profile"
+              >
+                View profile <span aria-hidden="true">↗</span>
+              </a>
+            </article>
+
+            <article className="social-card social-card--youtube">
+              <div className="social-card__top">
+                <div className="social-card__icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.6 3.6 12 3.6 12 3.6s-7.6 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.8.5 9.4.5 9.4.5s7.6 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8ZM9.6 15.6V8.4l6.3 3.6Z" />
+                  </svg>
+                </div>
+                <span className="social-card__label">VIDEOS & MOMENTS</span>
+              </div>
+              <h3>YouTube</h3>
+              <p className="social-card__count">70<span>+</span></p>
+              <p className="social-card__description">Subscribers</p>
+              <a
+                className="social-card__button"
+                href="https://www.youtube.com/@manishrajaknepal568"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="View Manish Rajak's YouTube channel"
+              >
+                View channel <span aria-hidden="true">↗</span>
+              </a>
+            </article>
+
+            <article className="social-card social-card--instagram">
+              <div className="social-card__top">
+                <div className="social-card__icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                    <rect x="3" y="3" width="18" height="18" rx="5" />
+                    <circle cx="12" cy="12" r="4" />
+                    <circle cx="18" cy="6" r="1" fill="currentColor" stroke="none" />
+                  </svg>
+                </div>
+                <span className="social-card__label">PHOTOS & STORIES</span>
+              </div>
+              <h3>Instagram</h3>
+              <p className="social-card__count">270<span>+</span></p>
+              <p className="social-card__description">Followers</p>
+              <a
+                className="social-card__button"
+                href="https://www.instagram.com/manish._2007/"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="View Manish Rajak's Instagram profile"
+              >
+                View profile <span aria-hidden="true">↗</span>
+              </a>
+            </article>
+          </div>
+        </section>
+
         <section id="about" className="statement section-shell" aria-labelledby="story-title" data-reveal>
           <p className="section-index">( 01 — MY STORY )</p>
           <div>
@@ -150,7 +240,51 @@ export default function Home() {
       </div>
 
       <footer id="contact" className="footer" data-contact>
-        <div className="footer__top section-shell"><p className="section-index contact-reveal">( 06 — SAY HELLO )</p><h2 className="contact-reveal">Let&apos;s learn<br /><em>together.</em></h2><p className="contact-reveal">Have a project, idea, or opportunity worth talking about? I&apos;d be glad to connect.</p><a className="button button--light contact-reveal" href="mailto:manrajak14@gmail.com">manrajak14@gmail.com <Arrow /></a><div className="social-links contact-reveal"><a href="https://www.linkedin.com/in/manish-rajak?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer">LINKEDIN <Arrow /></a><a href="https://x.com/Manis_rajak" target="_blank" rel="noreferrer">X / TWITTER <Arrow /></a></div><div className="contact-orbit" aria-hidden="true"><i /><i /><i /></div></div>
+        <div className="footer__top section-shell"><p className="section-index contact-reveal">( 06 — SAY HELLO )</p><h2 className="contact-reveal">Let&apos;s learn<br /><em>together.</em></h2><p className="contact-reveal">Have a project, idea, or opportunity worth talking about? I&apos;d be glad to connect.</p>
+  
+
+
+<div className="contact-actions contact-reveal">
+  <a
+    className="contact-action contact-action--email"
+    href="mailto:manrajak14@gmail.com"
+  >
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">
+      <rect x="3" y="5" width="18" height="14" rx="2" />
+      <path d="m3 7 9 6 9-6" />
+    </svg>
+    <span>Email</span>
+    <Arrow />
+  </a>
+
+  <a
+    className="contact-action contact-action--linkedin"
+    href="https://www.linkedin.com/in/manish-rajak/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2ZM8.34 18H5.67V9.42h2.67ZM7 8.25a1.55 1.55 0 1 1 0-3.1 1.55 1.55 0 0 1 0 3.1ZM18.34 18h-2.67v-4.17c0-1-.02-2.29-1.4-2.29s-1.61 1.09-1.61 2.22V18H10V9.42h2.56v1.17h.04a2.8 2.8 0 0 1 2.52-1.39c2.7 0 3.22 1.78 3.22 4.09Z" />
+    </svg>
+    <span>LinkedIn</span>
+    <Arrow />
+  </a>
+
+  <a
+    className="contact-action contact-action--x"
+    href="https://x.com/Manis_rajak"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <path d="M18.9 2H22l-6.78 7.75L23.2 22h-6.25l-4.9-7.42L5.55 22H2.4l7.25-8.3L1.9 2h6.4l4.43 6.96L18.9 2Zm-1.1 18h1.73L7.38 3.89H5.52L17.8 20Z" />
+    </svg>
+    <span>X / Twitter</span>
+    <Arrow />
+  </a>
+</div>
+
+       </div>
         <div className="footer__bottom section-shell"><p>© 2026 MANISH RAJAK</p><div><a href="#top">BACK TO TOP ↑</a><span> CSE STUDENT</span></div></div>
       </footer>
     </main>

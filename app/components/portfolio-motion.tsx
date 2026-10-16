@@ -88,6 +88,40 @@ export default function PortfolioMotion() {
     return () => context.revert();
   }, [enabled]);
 
+  //from chatgpt
+  
+  useEffect(() => {
+    if (!enabled || window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      return;
+    }
+
+    const section = document.querySelector<HTMLElement>('#social-presence');
+    if (!section) return;
+
+    gsap.registerPlugin(ScrollTrigger);
+
+    const context = gsap.context(() => {
+      gsap.fromTo(
+        '.social-card',
+        { autoAlpha: 0, y: 36 },
+        {
+          autoAlpha: 1,
+          y: 0,
+          duration: 0.7,
+          stagger: 0.16,
+          ease: 'power3.out',
+          scrollTrigger: {
+            trigger: section,
+            start: 'top 78%',
+            once: true,
+          },
+        },
+      );
+    }, section);
+
+    return () => context.revert();
+  }, [enabled]);
+
   const toggle = () => {
     const next = !enabled;
     setEnabled(next);
