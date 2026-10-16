@@ -1,0 +1,16 @@
+# Manish Rajak
+
+Manish Rajak is a second-year B.Tech Computer Science and Engineering student based in Bengaluru, India. This portfolio documents his learning journey, student projects, hackathon participation, volunteering, and technology interests.
+
+## Current focus
+- Web development, JavaScript, backend learning, and the MERN stack
+- Data Structures and Algorithms fundamentals
+- Exploring blockchain and AI-powered applications
+
+## Featured work
+- LaunchX: an AI-powered website-builder concept created by Team Alpha at Cypher 4.0. The team reached the top 20 among 80+ teams and qualified for Round 2.
+- Email Automation with Nodemailer: a backend-learning project exploring Node.js, Nodemailer, and SMTP.
+- Infinite Scroll: a web-development project exploring continuous content loading.
+
+## Portfolio
+- / — Overview, projects, community work, and learning journey

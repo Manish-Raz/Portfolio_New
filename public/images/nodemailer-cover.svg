@@ -1,0 +1,13 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#171D2C"/>
+  <path d="M0 720C190 625 342 785 544 674C746 562 886 616 1200 410V900H0V720Z" fill="#5774E8" fill-opacity=".28"/>
+  <circle cx="908" cy="190" r="176" fill="#D9FA54" fill-opacity=".2"/>
+  <rect x="177" y="191" width="700" height="460" rx="24" fill="#F7F8FC"/>
+  <path d="M196 222C196 205.984 208.984 193 225 193H829C845.016 193 858 205.984 858 222V320L527 518L196 320V222Z" fill="#D9FA54"/>
+  <path d="M196 320L495 514C514.727 526.798 539.273 526.798 559 514L858 320V622C858 638.016 845.016 651 829 651H225C208.984 651 196 638.016 196 622V320Z" fill="#F7F8FC"/>
+  <path d="M196 651L401 455" stroke="#A9B6DB" stroke-width="4"/><path d="M858 651L653 455" stroke="#A9B6DB" stroke-width="4"/>
+  <rect x="287" y="316" width="276" height="20" rx="10" fill="#171D2C"/><rect x="287" y="360" width="441" height="13" rx="6.5" fill="#A9B6DB"/><rect x="287" y="397" width="332" height="13" rx="6.5" fill="#A9B6DB"/>
+  <rect x="287" y="540" width="152" height="42" rx="21" fill="#5774E8"/>
+  <circle cx="944" cy="668" r="58" fill="#FE5A32"/><path d="M922 669L939 686L970 651" stroke="white" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="177" y="122" fill="#F7F8FC" font-family="monospace" font-size="28" letter-spacing="5">EMAIL DELIVERY / 01</text>
+</svg>

@@ -1,0 +1,30 @@
+[00:00:02.372] Server  LOG     ✓ Ready in 1648ms
+[00:00:04.070] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.468] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:08.535] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:32.617] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:56.059] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:26.205] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/manish.png" "received" null
+[00:17:26.211] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/manish.png" "received" null
+[00:17:26.351] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/manish.png" "received" null
+[00:17:26.470] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/manish.png" "received" null
+[00:18:10.850] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/.png" "received" null
+[00:18:10.861] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/.png" "received" null
+[00:18:10.951] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/.png" "received" null
+[00:18:11.022] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/.png" "received" null
+[00:18:11.565] Server  LOG     ✓ Compiled in 55ms
+[00:18:12.177] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/M.png" "received" null
+[00:18:12.186] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/M.png" "received" null
+[00:18:12.255] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/M.png" "received" null
+[00:18:12.317] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/M.png" "received" null
+[00:18:29.581] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:13.437] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/decode.jpeg" "received" null
+[00:22:13.500] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/decode.jpeg" "received" null
+[00:22:13.570] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/decode.jpeg" "received" null
+[00:22:20.214] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/decodesih.jpeg" "received" null
+[00:22:20.230] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/decodesih.jpeg" "received" null
+[00:22:20.307] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/decodesih.jpeg" "received" null
+[00:22:47.880] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/treeplantation.jpeg" "received" null
+[00:22:47.891] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/treeplantation.jpeg" "received" null
+[00:23:01.591] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:16.215] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
