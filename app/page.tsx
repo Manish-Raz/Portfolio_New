@@ -197,7 +197,7 @@ export default function Home() {
               </article>
             ))}
           </div>
-          <p className="learning__footnote">Also exploring: <b>AI-powered applications</b>, <b>blockchain</b>, and <b>photography</b> — with curiosity before certainty.</p>
+          <p className="learning__footnote">Also exploring: <b>blockchain,AI-powered applications,blockchain, and photography — with curiosity before certainty.</b></p>
         </section>
 
         <section id="projects" className="projects" aria-labelledby="projects-title">
